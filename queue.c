@@ -1,3 +1,7 @@
+/*
+ create by nicexw at www.baofeng.com
+ Email: nicexw@gmail.com xiongwei@baofeng.com
+*/
 #include "queue.h"
 
 struct queue* new_queue(char *server_filepath,char *name){
