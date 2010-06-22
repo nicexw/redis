@@ -1,3 +1,7 @@
+/*
+create by nicexw at www.baofeng.com
+Email: nicexw@gmail.com xiongwei@baofeng.com
+*/
 #ifndef QUEUE_H_
 #define QUEUE_H_
 #include <stdio.h>
