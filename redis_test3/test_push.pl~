@@ -1,0 +1,2 @@
+for($i=1;$i<50000;$i++){
+           	   print `./redis-cli qpush 116 $i`;	  }
